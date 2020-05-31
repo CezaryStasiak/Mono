@@ -1,0 +1,14 @@
+Przedmioty:
+kot(10), pies(20), chomik(5),
+pedigree(8), kiticat(6), marchewka(4), kiełbasa(5).
+Wartości:
+wartość(kot) = 100 jeśli jest(kiticat i kiełbasa lub chomik)
+inaczej 20,
+wartość(pies) = 150 jeśli jest(pedigree i kiełbasa)
+inaczej 100,
+wartość(chomik) = 60 jeśli jest(marchewka) inaczej 50,
+wartość(pedigree) = 20,
+wartość(kiticat) = 20,
+wartość(marchewka) = 10,
+wartość(kiełbasa) = 30.
+Plecak: 40.
